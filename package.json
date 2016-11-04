@@ -1,7 +1,7 @@
 {
   "name": "bt-find-server",
   "description": "Determine availability of given list of servers and returns an available server with the lowest priority number.",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "license": "ISC",
   "main": "index.js",
   "author": "Ronny Tomasetti <ronny.tomasetti@gmail.com> (http://ronnytomasetti.com)",
