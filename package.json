@@ -1,20 +1,20 @@
 {
-    "name": "bt-find-server",
-    "description": "Determine availability of given list of servers and returns an available server with the lowest priority number.",
-    "version": "0.0.9",
-    "license": "ISC",
-    "main": "index.js",
-    "author": "Ronny Tomasetti <ronny.tomasetti@gmail.com> (http://ronnytomasetti.com)",
-	"repository": "git@github.com:ronnytomasetti/bt-find-server",
-    "scripts": {
-        "test": "jasmine"
-    },
-    "dependencies": {
-        "lodash.filter": "^4.6.0",
-        "lodash.orderby": "^4.6.0",
-        "request": "^2.76.0"
-    },
-    "devDependencies": {
-        "jasmine": "^2.5.2"
-    }
+  "name": "bt-find-server",
+  "description": "Determine availability of given list of servers and returns an available server with the lowest priority number.",
+  "version": "0.0.10",
+  "license": "ISC",
+  "main": "index.js",
+  "author": "Ronny Tomasetti <ronny.tomasetti@gmail.com> (http://ronnytomasetti.com)",
+  "repository": "git@github.com:ronnytomasetti/bt-find-server",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "dependencies": {
+    "lodash.filter": "^4.6.0",
+    "lodash.orderby": "^4.6.0",
+    "request": "^2.76.0"
+  },
+  "devDependencies": {
+    "jasmine": "^2.5.2"
+  }
 }
